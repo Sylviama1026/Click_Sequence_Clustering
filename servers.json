@@ -1,0 +1,6 @@
+{
+	"threadNum": 5,
+	"minPerSlice": 12000,
+	"server":
+		["localhost"]
+}	

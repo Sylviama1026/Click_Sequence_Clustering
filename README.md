@@ -1,1 +1,1 @@
-# Click_Sequence_Clustering
+# User_Journey_Clustering
